@@ -1,14 +1,14 @@
 {   
     "bot1": {
-        "source": "https://github.com/knox657/Auto-simple",
+        "source": "https://github.com/Mrblackgodd/VJ-File-Store",
         "branch": "main",
         "env": {
-            "URL": "https://google122.onrender.com/"
+            "URL": "https://google112.onrender.com"
         },
-        "run": "python3 bot.py"
+        "run": "gunicorn app:app & python3 bot.py"
     },
     "bot2": {
-        "source": "https://github.com/Mrblackgodd/PremiumFilter",
+        "source": "",
         "branch": "Tamilans-Working-Branch",
         "env": {
             "BOT_TOKEN": "6575931823:AAEclAwMUEyCbL_LcltvHLEbOSuSfJaeF5M"
