@@ -5,7 +5,7 @@
         "env": {
             "URL": "https://google112.onrender.com"
         },
-        "run": "gunicorn app:app & python3 bot.py"
+        "run": "python3 bot.py"
     },
     "bot2": {
         "source": "",
