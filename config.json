@@ -3,7 +3,7 @@
         "source": "https://github.com/knox657/Auto-simple",
         "branch": "main",
         "env": {
-            "URL": "google.com"
+            "URL": "https://google122.onrender.com/"
         },
         "run": "python3 bot.py"
     },
@@ -15,7 +15,7 @@
             "DATABASE_URI": "mongodb+srv://Adbot3:nehalsingh969797@cluster0.ov4heih.mongodb.net/?retryWrites=true&w=majority"
             "PICS": "https://graph.org/file/fd5609e379083e647d5a4.jpg"
         },
-        "run": ""
+        "run": "python3 bot.py"
     },
     "bot3": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
