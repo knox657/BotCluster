@@ -1,9 +1,9 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/knox657/Auto-simple",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "URL": "google.com"
         },
         "run": ""
     },
