@@ -11,8 +11,8 @@
         "source": "",
         "branch": "Tamilans-Working-Branch",
         "env": {
-            "BOT_TOKEN": "6575931823:AAEclAwMUEyCbL_LcltvHLEbOSuSfJaeF5M"
-            "DATABASE_URI": "mongodb+srv://Adbot3:nehalsingh969797@cluster0.ov4heih.mongodb.net/?retryWrites=true&w=majority"
+            "BOT_TOKEN": "6575931823:AAEclAwMUEyCbL_LcltvHLEbOSuSfJaeF5M", 
+            "DATABASE_URI": "mongodb+srv://Adbot3:nehalsingh969797@cluster0.ov4heih.mongodb.net/?retryWrites=true&w=majority", 
             "PICS": "https://graph.org/file/fd5609e379083e647d5a4.jpg"
         },
         "run": "python3 bot.py"
