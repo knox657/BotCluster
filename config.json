@@ -1,9 +1,9 @@
 {   
     "bot1": {
-        "source": "https://github.com/Mrblackgodd/VJ-File-Store",
+        "source": "https://github.com/Mrblackgodd/VJ-File-Store.git",
         "branch": "main",
         "env": {
-            "URL": "https://google112.onrender.com"
+            "TOKEN": ""
         },
         "run": "python3 bot.py"
     },
