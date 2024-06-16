@@ -5,7 +5,7 @@
         "env": {
             "TOKEN": ""
         },
-        "run": "python3 bot.py"
+        "run": "gunicorn app:app & python3 bot.py"
     },
     "bot2": {
         "source": "",
