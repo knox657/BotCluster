@@ -6,11 +6,11 @@
             "TOKEN": "", 
             "PORT" : "8080"
         },
-        "run": "gunicorn app:app & python3 bot.py"
+        "run": "python3 bot.py"
     },
     "bot2": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "branch": "Tamilans-Working-Branch",
+        "branch": "",
         "env": {
             "BOT_TOKEN": "6575931823:AAEclAwMUEyCbL_LcltvHLEbOSuSfJaeF5M", 
             "DATABASE_URI": "mongodb+srv://Adbot3:nehalsingh969797@cluster0.ov4heih.mongodb.net/?retryWrites=true&w=majority", 
