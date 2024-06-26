@@ -6,7 +6,7 @@
             "TOKEN": "", 
             "PORT" : "8080"
         },
-        "run": "gunicorn app:app & python3 bot.py"
+        "run": "bot.py"
     },
     "bot2": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
