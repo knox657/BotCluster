@@ -1,12 +1,11 @@
 {   
     "bot1": {
-        "source": "https://github.com/Mrblackgodd/VJ-File-Store.git",
+        "source": "https://github.com/knox657/Auto-simple.git",
         "branch": "main",
         "env": {
-            "TOKEN": "", 
-            "PORT" : "8080"
+            "TOKEN": ""
         },
-        "run": "bot.py"
+        "run": "python3 bot.py"
     },
     "bot2": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
